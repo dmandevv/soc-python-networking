@@ -1,0 +1,122 @@
+[
+  {
+    "port": 21,
+    "protocol": "udp",
+    "service": "ftp",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 22,
+    "protocol": "udp",
+    "service": "ssh",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 23,
+    "protocol": "udp",
+    "service": "telnet",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 25,
+    "protocol": "udp",
+    "service": "smtp",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 53,
+    "protocol": "udp",
+    "service": "dns",
+    "banner": "aabb8180000100060000000006676f6f676c6503636f6d0000010001c00c000100010000005e0004adc22b66c00c000100010000005e0004adc22b8ac00c000100010000005e0004adc22b65c00c000100010000005e0004adc22b64c00c000100010000005e0004adc22b8bc00c000100010000005e0004adc22b71"
+  },
+  {
+    "port": 80,
+    "protocol": "udp",
+    "service": "http",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 110,
+    "protocol": "udp",
+    "service": "pop3",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 143,
+    "protocol": "udp",
+    "service": "imap",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 443,
+    "protocol": "udp",
+    "service": "https",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 445,
+    "protocol": "udp",
+    "service": "smb",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 1433,
+    "protocol": "udp",
+    "service": "mssql",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 3306,
+    "protocol": "udp",
+    "service": "mysql",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 3389,
+    "protocol": "udp",
+    "service": "rdp",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 5432,
+    "protocol": "udp",
+    "service": "postgres",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 6379,
+    "protocol": "udp",
+    "service": "redis",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 6443,
+    "protocol": "udp",
+    "service": "kubernetes-api",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 8080,
+    "protocol": "udp",
+    "service": "http-alt",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 8443,
+    "protocol": "udp",
+    "service": "https-alt",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 9200,
+    "protocol": "udp",
+    "service": "elasticsearch",
+    "banner": "open|filtered"
+  },
+  {
+    "port": 27017,
+    "protocol": "udp",
+    "service": "mongodb",
+    "banner": "open|filtered"
+  }
+]

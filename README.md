@@ -8,7 +8,12 @@ Building networking fundamentals from scratch — sockets, TCP/IP, port scanning
 
 ## Exercises
 
-*Coming soon*
+| # | Exercise | File |
+|---|----------|------|
+| 01 | TCP echo server + interactive client | [exercises/01_sockets/](exercises/01_sockets/) |
+| 02 | Threaded TCP port scanner | [exercises/02_port_scanner/](exercises/02_port_scanner/) |
+| 03 | Raw HTTP GET over a socket | [exercises/03_http_from_scratch/](exercises/03_http_from_scratch/) |
+| 04 | DNS client from scratch | [exercises/04_dns/](exercises/04_dns/) |
 
 ---
 

@@ -1,0 +1,6 @@
+2026-06-04 13:24:37,319 - [IP: 127.0.0.1] - INFO - Connection attempt: CONNECTED
+2026-06-04 13:24:46,926 - [IP: 127.0.0.1] - INFO - Saved file: sample.txt
+2026-06-04 13:25:05,506 - [IP: 127.0.0.1] - INFO - Connection attempt: LOST CONNECTION
+2026-06-04 13:25:17,924 - [IP: 127.0.0.1] - INFO - Connection attempt: CONNECTED
+2026-06-04 13:25:22,634 - [IP: 127.0.0.1] - INFO - Saved file: sample.txt
+2026-06-04 13:35:38,120 - [IP: 127.0.0.1] - INFO - Connection attempt: LOST CONNECTION

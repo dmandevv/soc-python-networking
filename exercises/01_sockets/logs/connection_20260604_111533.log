@@ -1,0 +1,4 @@
+2026-06-04 11:15:34,711 - [IP: 127.0.0.1] - INFO - Connection attempt: CONNECTED
+2026-06-04 11:15:35,954 - [IP: 127.0.0.1] - INFO - Connection attempt: CONNECTED
+2026-06-04 11:15:43,201 - [IP: 127.0.0.1] - INFO - Connection attempt: LOST CONNECTION
+2026-06-04 11:15:50,190 - [IP: 127.0.0.1] - INFO - Connection attempt: DISCONNECTED
