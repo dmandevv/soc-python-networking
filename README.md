@@ -1,6 +1,6 @@
 # Networking with Python
 
-Step 2 of my [red team journey](https://github.com/dmandevv/redteam-python-journey).
+Step 2 of my [SOC Python Journey](https://github.com/dmandevv/soc-python-journey).
 
 Building networking fundamentals from scratch — sockets, TCP/IP, port scanning, DNS, and packet analysis.
 
